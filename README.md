@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [Dedicated WordPress theme](https://ashura.ahl-ul-bayt.org/)
 
-- 💬 Ask me about **Flutter, Networking, linux :)**
+- 💬 Ask me about **PenTest, Networking, linux :)**
 
 - 📫 How to reach me **mohammmad.rahimi10@gmail.com**
 
