@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandmanmw3&label=Profile%20views&color=0e75b6&style=flat" alt="sandmanmw3" /> </p>
 
-- 🔭 I’m currently working on **namavaran.xyz , mahad-alhassanain.com**
+- 🔭 I’m currently working on **edihe.ac.ir , mahad-alhassanain.com**
 
-- 🌱 I’m currently learning **CEH (Certified Ethical Hacker), CCNA, Python**
+- 🌱 I’m currently learning **CEH (Certified Ethical Hacker), Owasp, Pentest**
 
 - 👯 I’m looking to collaborate on [Dedicated WordPress theme](https://ashura.ahl-ul-bayt.org/)
 
