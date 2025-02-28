@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
-<h3 align="center">Front-End developer & intern CyberSecurity from Iran</h3>
+<h3 align="center">Intern CyberSec && DevOpsSec</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandmanmw3&label=Profile%20views&color=0e75b6&style=flat" alt="sandmanmw3" /> </p>
 
-- 🔭 I’m currently working on **edihe.ac.ir , mahad-alhassanain.com**
+- 🔭 I’m currently working on 'Bugs':)
 
-- 🌱 I’m currently learning **CEH (Certified Ethical Hacker), Owasp, Pentest**
+- 💬 Ask me about **PenTest, Networking, linux**
 
-- 👯 I’m looking to collaborate on [Dedicated WordPress theme](https://ashura.ahl-ul-bayt.org/)
-
-- 💬 Ask me about **PenTest, Networking, linux :)**
-
-- 📫 How to reach me **mohammmad.rahimi10@gmail.com**
+- 📫 How to reach me **mohammmad.rahimi10@gmail.com** and **Telegram**
 
 - ⚡ Fun fact **Let's be geek;)**
 
