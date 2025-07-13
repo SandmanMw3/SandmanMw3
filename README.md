@@ -1,6 +1,6 @@
 # SandmanMw3.github.io
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
-<h3 align="center">Intern CyberSec && DevOpsSec</h3>
+<h3 align="center"> Bug hunter && DevOpsSec</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandmanmw3&label=Profile%20views&color=0e75b6&style=flat" alt="sandmanmw3" /> </p>
 
